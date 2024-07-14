@@ -1,0 +1,40 @@
+{
+  "name": "af-project-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thushaltk/AF-PROJECT-FRONTEND.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thushaltk/AF-PROJECT-FRONTEND/issues"
+  },
+  "homepage": "https://github.com/thushaltk/AF-PROJECT-FRONTEND#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.3.1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "aos": "^2.3.4",
+    "axios": "^0.21.1",
+    "prop-types": "^15.7.2",
+    "ra-data-simple-rest": "^3.13.4",
+    "react": "^17.0.2",
+    "react-admin": "^3.15.2",
+    "react-dom": "^17.0.2",
+    "react-loading": "^2.0.3",
+    "react-lottie": "^1.2.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-stripe-checkout": "^2.6.3",
+    "validator": "^13.6.0"
+  }
+}
