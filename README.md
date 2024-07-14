@@ -1,5 +1,12 @@
 # Conference Management System (Frontend)
 
+## Group Members (SLIIT "Application Frameworks" subject group members - 3rd year 1st Semester)
+
+### Thushal Kulathileka
+### Rusira Liyanage
+### Kishen Deemad
+### Eishan Dinuka
+
 ![alt text](https://raw.githubusercontent.com/thushaltk/AF-PROJECT-FRONTEND/master/screenshots/Screenshot%202023-10-15%20152308.jpg "Logo Title Text 1")
 
 
