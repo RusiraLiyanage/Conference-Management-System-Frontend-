@@ -37,7 +37,7 @@ Welcome to the ``` Conference Management System ```, a comprehensive solution fo
 ![alt text](https://raw.githubusercontent.com/thushaltk/AF-PROJECT-FRONTEND/master/screenshots/Screenshot%202023-10-15%20152519.jpg "Logo Title Text 1")
 
 # Contributors
-1. Thushal Kulatilake (me) -
+1. Thushal Kulatilake
 2. Eishan Dinuka Weerasinghe
 3. Kishen Deemud
 4. Rusira Liyanage
